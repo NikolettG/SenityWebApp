@@ -1,0 +1,32 @@
+@media screen and (max-width: 1171px) {
+    .tablediv {
+        top: 500px !important;
+        left: -200px;
+    }
+    .space {
+        margin-top: 600px !important;
+    }
+    .formdiv {
+        left: 38% !important;
+    }
+}
+@media screen and (max-width: 800px) {
+    .tablediv {
+        left: -150px;
+    }
+    .formdiv {
+        left: 33% !important;
+    }
+}
+@media screen and (max-width: 420px) {
+    .header {
+        width: 620px !important;
+    }
+    .tablediv {
+        top: 500px !important;
+        left: -180px;
+    }
+    .formdiv {
+        left: 28% !important;
+    }
+}

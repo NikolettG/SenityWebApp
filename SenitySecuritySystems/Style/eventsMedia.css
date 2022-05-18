@@ -1,0 +1,27 @@
+@media screen and (max-width: 1400px) {
+    #eventsTable {
+        left: -8%;
+    }
+}
+@media screen and (max-width: 800px) {
+    .tablediv {
+    }
+}
+@media screen and (max-width: 1015px) {
+    #eventsTable {
+        left: -15%;
+    }
+}
+@media screen and (max-width: 925px) {
+    #eventsTable {
+        left: -19%;
+    }
+    .header {
+        width: 925px !important;
+    }
+}
+@media screen and (max-width: 810px) {
+    .logoutDiv {
+        margin-left: 80%;
+    }
+}
